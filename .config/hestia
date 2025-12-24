@@ -6,8 +6,7 @@
     "ROOT": "core"
   },
   "containers": [
-    "gotify",
-    "homeassistant"
+    "esphome"
   ],
   "packages": [
     "borgbackup",
